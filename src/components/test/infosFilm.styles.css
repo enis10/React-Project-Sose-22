@@ -1,0 +1,29 @@
+.bewertung{
+    display: flex;
+  
+}
+.progress{
+    width : 50px;
+    height: 50px;
+}
+
+.infoKarte{
+    display: flex;
+    flex-direction: column;
+}
+
+.txtBewertung{
+    margin-left: 5px;
+}
+.gesamteKarte{
+    display: felx;
+   
+}
+.bild{
+    color: white;
+    object-fit: contain;
+    height: 100px;
+    width: 80%;
+    border-radius: 0.5em;
+    margin-left: 30px;
+}

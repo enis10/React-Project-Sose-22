@@ -1,0 +1,15 @@
+.overview{
+    width: 200px;
+    background-color: #fafafa;
+    border: 1px solid lightgray;
+}
+.einziger_benutzer{
+    display: flex;
+    align-items: center;
+}
+.avatar{
+    margin-left: 20px;
+}
+.link{
+    margin-left: 10px;
+}

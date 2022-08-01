@@ -1,0 +1,72 @@
+.post{
+    max-width: 600px;
+    background-color: #fafafa;
+    border: 1px solid lightgray;
+    margin-bottom: 45px;
+}
+
+.post_image{
+    width: 100%;
+    object-fit: contain;
+    border-top : 1px lightgray;
+    border-bottom:1px  lightgray;
+
+}
+.post_header{
+    display : flex;
+    align-items: center;
+    }
+.post_text{
+    font-weight: normal;
+    padding: 10px;
+}
+
+.benutzer{
+    font-weight: normal;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bewertung{
+    margin-left: 10px;
+    margin-bottom: 8px;
+}
+
+
+
+.post_commentBox{
+    display: flex;
+  
+
+}
+.post_input{
+    flex: 1;
+    border: none;
+    padding: 10px;
+   
+    
+}
+.post_button{
+    border: none;
+    color: #6082a3;
+   
+}
+.post_comments{
+
+    border: 1px solid lightgray;
+   
+}
+.kommentar{
+    margin-left: 10px;
+    flex: 1;
+}
+
+.delete{
+    flex:2;
+    cursor: pointer;
+    margin-left: 10px;
+    width: 40px;
+}
+
+.Md{
+    cursor: pointer;
+}

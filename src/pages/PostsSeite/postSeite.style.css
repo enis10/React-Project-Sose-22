@@ -1,0 +1,31 @@
+.post_page{
+    margin-left: 100px;
+    margin-top: 30px;
+    display: flex;
+}
+.posts{
+    display: flex;
+    flex-direction: column;
+}
+.topBenutzers{
+    margin-left: 300px;
+}
+
+.filter {
+    margin-bottom: 50px;
+}
+.chip{
+    margin-top: 20px;
+}
+.rating{
+    display: flex;
+    align-items: center;
+}
+.text{
+    padding: 10px;
+}
+.aboutMe {
+    background-color: #fafafa;
+    border: 1px solid lightgray;
+    margin-bottom: 45px;
+}

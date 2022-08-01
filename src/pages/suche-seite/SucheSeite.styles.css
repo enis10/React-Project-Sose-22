@@ -1,0 +1,16 @@
+.suche-seite{
+    margin-top: 20px;
+
+
+    width: 95%;
+    margin-left: 20px;
+}
+
+.suche-input{
+    background-color: transparent;
+    border:2px solid #22254b;
+    border-radius: 50px;
+    font-family: inherit;
+    font-size: 1.2rem;
+
+}

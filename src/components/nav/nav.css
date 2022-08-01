@@ -1,0 +1,88 @@
+.nav{
+    position:fixed;
+    top:0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding: 20px;
+   height: 30px;
+
+   transition-timing-function: ease-in;
+   transition: all 0.5s;
+}
+
+.nav_scrolled{
+    background-color: black;
+    z-index:1;
+}
+.nav_hm{
+    position: fixed;
+    left:20px;
+    color: white;
+    top:0;
+    margin-top: 30px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.nav_log_in{
+    top:0;
+    position: fixed;
+    right:20px;
+    color: white;
+    cursor: pointer;
+ 
+    display: flex;
+    margin-top: 30px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+
+
+}
+.nav_regester{
+
+    
+    top:0;
+    position: fixed;
+    right:90px;
+    color: white;
+    cursor: pointer;
+ 
+    display: flex;
+    margin-top: 30px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+}
+.fsConnected{
+    right:130px;
+}
+.nav_posts{
+    top:0;
+    position: fixed;
+    right:220px;
+    color: white;
+    cursor: pointer;
+ 
+    display: flex;
+    margin-top: 30px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+}
+.nvConnected{
+    right:260px; 
+}
+.nav_mp{
+    position: fixed;
+    left:130px;
+    color: white;
+    top:0;
+    margin-top: 30px;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 500;
+}
+

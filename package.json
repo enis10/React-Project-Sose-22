@@ -1,14 +1,24 @@
 {
-  "name": "my-app",
+  "name": "projekt_d_a",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.6.2",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.3",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.26.0",
+    "cors": "^2.8.5",
+    "movie-trailer": "^2.1.0",
     "react": "^17.0.2",
+    "react-circular-progressbar": "^2.0.4",
     "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-rating-stars-component": "^2.2.0",
     "react-scripts": "5.0.0",
+    "react-youtube": "^8.2.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

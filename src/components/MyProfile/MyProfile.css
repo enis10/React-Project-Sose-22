@@ -1,0 +1,54 @@
+.avatar{
+    cursor: pointer;
+}
+.inside_Box{
+    display: flex;
+    flex-direction: column;
+}
+
+.hochladen_button{
+    margin-top: 30px;
+}
+
+.avatar_n_name{
+    margin-left: 100px;
+   
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    max-width: 350px;
+    background-color: #fafafa;
+    border: 1px solid lightgray;
+    min-height: 50px;
+    border-radius: 8px;
+}
+.aboutme{
+    margin-left: 100px;
+   
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    width: 500px;
+    background-color: #fafafa;
+    border: 1px solid lightgray;
+    min-height: 50px;
+    border-radius: 8px;
+}
+
+.name{
+    margin-left: 20px;
+}
+
+.cnt_posts{
+    margin-left: 30px;
+}
+.message{
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.txtt{
+    padding: 10px;
+}
